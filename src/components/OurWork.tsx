@@ -11,7 +11,7 @@ interface WorkItem {
 
 const workItems: WorkItem[] = [
   {
-    image: '/images/work-1.jpg',
+    image: '/images/workshop-1.jpg',
     title: 'Full Body Respray & Custom Paint',
     category: 'Bodywork & Painting',
     span: 'md:col-span-2 md:row-span-2',
